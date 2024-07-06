@@ -65,4 +65,3 @@ In the project directory, you can run:
 - [TypeScript](https://www.typescriptlang.org/) (for type-safe JavaScript)
 ```
 
-Save this content as `README.md` in your project directory. This provides a comprehensive guide for setting up and running your Portfolio Transaction Project.
